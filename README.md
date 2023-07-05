@@ -9,6 +9,7 @@ Secondly, as a student data analyst learning and building personal projects.
 
 ----- 
 #Data Sourcing
+
 Note That: Data Analysis is not about the tools but about the business value.
 
 One may ask what the above statement means; This means that as a data analyst working for a company, you should always have in mind that you are there working with data to unlock answers which are potential solutions to business problems. These are answers to questions in the mind of the business stakeholders. Hence, you are majorly supporting the business to move forward in 3 dimensions. so you need to ask yourself these questions.
@@ -23,6 +24,7 @@ Conclusively, as a data analyst what you should be thinking about is how do I ad
 
 ------
 #Data Transformation
+
 **Steps to Take When Approaching Data Analysis Projects in Order to Unlock Your Creativity. 
 
 For a Data Analyst Working with a Company
